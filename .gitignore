@@ -1,0 +1,55 @@
+# Credentials and machine-local settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+credentials*.json
+.local/
+
+# Source corpora, indexes, weights and training outputs
+/data/
+/corpora/
+/dumps/
+/indexes/
+/models/
+/checkpoints/
+/runs/
+/artifacts/
+/work/
+*.cf
+*.cfe
+*.dt
+*.gguf
+*.safetensors
+*.onnx
+*.ckpt
+*.pt
+*.pth
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+*.egg-info/
+
+# Build products and editor state
+/target/
+/dist/
+/build/
+node_modules/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
