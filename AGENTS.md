@@ -23,6 +23,7 @@ The repository starts with research and a design proposal. Do not describe propo
 - Never commit configuration dumps, proprietary code, credentials, local indexes, traces from private configurations, or model weights.
 - Use synthetic examples or explicitly publishable data for checked-in fixtures.
 - Check licenses and preserve attribution before adding third-party implementations.
+- The project uses PolyForm Perimeter 1.0.1. Preserve LICENSE and NOTICE; describe it as source-available. Internal commercial use is permitted; providing competing products or services requires separate permission. Do not replace it with MIT, Apache, GPL, or another license without an explicit owner request.
 - Raw local corpora, models, checkpoints, and runs belong in ignored directories.
 
 ## Evaluation

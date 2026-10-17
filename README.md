@@ -26,6 +26,7 @@ The public repository will contain original code, documentation, synthetic examp
 - [Design proposal, in Russian](docs/design-proposal.md)
 - [Research notes and primary sources](docs/research.md)
 - [Evaluation roadmap](docs/roadmap.md)
+- [License policy and examples](docs/licensing.md)
 - [Repository working instructions](AGENTS.md)
 
 ## Inspiration
@@ -36,4 +37,8 @@ This is an independent project, not an official LightOn or 1C product. No third-
 
 ## License
 
-Original repository content is licensed under [MIT](LICENSE). External code, models, and datasets retain their own licenses and publication conditions.
+Original repository content is offered under the [PolyForm Perimeter License 1.0.1](LICENSE) from this revision forward. This is source-available software.
+
+Internal use, including use for commercial development, is permitted. Providing others with a competing product or service based on this software requires separate permission; the restriction can also apply to free competing offerings. Redistribution must preserve the license and [required notices](NOTICE). See [the policy and examples](docs/licensing.md); the license text governs.
+
+Earlier revisions published under MIT retain their original license permissions. External code, models, and datasets retain their own licenses and publication conditions.
